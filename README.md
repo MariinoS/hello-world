@@ -16,3 +16,5 @@ However, I assume these courses are pretty basic.
 I'd like to get better at coding, to be able to write serious programs.
 At the moment I'm working my way through a programming book on 'C' and in one of my short breaks I was wondering about GitHub.
 So here I am!
+
+Cheers!
