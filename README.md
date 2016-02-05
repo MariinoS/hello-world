@@ -18,4 +18,3 @@ At the moment I'm working my way through a programming book on 'C' and in one of
 So here I am!
 
 Cheers!
-This is a line added to the branch bla.
