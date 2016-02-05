@@ -5,7 +5,7 @@ I'm not sure what to write here.
 I don't have much coding experience, however I am very motivated.
 Until now, all I've done is follow some courses on CodeCademy.com .
 
-I've finished the following: 
+I've finished the following:
     HTML/CSS
     The Command Line
     Java
@@ -18,3 +18,4 @@ At the moment I'm working my way through a programming book on 'C' and in one of
 So here I am!
 
 Cheers!
+This is a line added to the branch bla.
